@@ -12,7 +12,7 @@ Um botão para registro com uma transição.
 3 - Ao final o footer com os ícones das redes sociais com uma transição.
 
 ## Sobre o Código:
-Site desktop resposivo para tablet e mobile.
+Site desktop responsivo para tablet e mobile.
 
 
 ## Considedrações finais:
